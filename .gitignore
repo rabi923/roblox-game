@@ -1,0 +1,11 @@
+.env
+*.rbxl
+*.rbxlx
+__pycache__/
+node_modules/
+venv/
+*.blend1
+test_*.tmp
+*.lock
+mcp_config.json
+.agents/
