@@ -596,9 +596,9 @@
   - [x] `.gitignore` (ignores `.env`, `*.rbxl`, `*.rbxlx`, `*.lock`, `__pycache__/`, `node_modules/`, `venv/`, `*.blend1`)
   - [x] `README.md` (Project overview, feature breakdown, and tech stack)
 - [x] Initialized Git repository and connected remote `origin` (`https://github.com/rabi923/roblox-game.git`)
-- [x] Created initial master commit `ebf7e1e` with 66 files (+7,957 lines)
-- [x] Created `dev` branch for development work
-- **Deliverable**: GitHub repo initialized, fully structured, committed, and documented
+- [x] Created clean commit `4736a32` (zero secrets, passed GitHub Push Protection)
+- [x] Pushed both `main` and `dev` branches to GitHub remote `origin`
+- **Deliverable**: GitHub repo live, pushed, structured, and documented on `rabi923/roblox-game`
 - **Dependencies**: HE-01 (GitHub MCP connected)
 
 ---
